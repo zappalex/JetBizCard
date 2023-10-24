@@ -14,5 +14,5 @@ Single view app that is a very basic intro to compose, including a main "header"
 - Shapes
 - Vertical + Horizontal Arrangement
 
-  ## App Source:
-  https://amdocsglobal.udemy.com/course/android-development-java-android-studio-masterclass/
+## App Source:
+https://amdocsglobal.udemy.com/course/android-development-java-android-studio-masterclass/
